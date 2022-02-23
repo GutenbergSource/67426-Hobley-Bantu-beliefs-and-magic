@@ -1,0 +1,31 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/frontispiece.jpg" filesize="346705" filedate="2022-02-17 15:57:54" width="1045px" height="1440px"/>
+<image path="images/lbrace2.png" filesize="262" filedate="2022-02-17 15:57:54" width="23px" height="80px"/>
+<image path="images/lbrace3.png" filesize="268" filedate="2022-02-17 15:57:54" width="23px" height="120px"/>
+<image path="images/lbrace6.png" filesize="276" filedate="2022-02-17 15:57:54" width="23px" height="240px"/>
+<image path="images/lbrace7.png" filesize="272" filedate="2022-02-17 15:57:54" width="23px" height="280px"/>
+<image path="images/logo.png" filesize="9901" filedate="2022-02-17 15:57:54" width="181px" height="281px"/>
+<image path="images/new-cover.jpg" filesize="190276" filedate="2022-02-17 15:57:54" width="960px" height="1440px"/>
+<image path="images/p037-1.jpg" filesize="201739" filedate="2022-02-17 15:57:54" width="958px" height="1154px"/>
+<image path="images/p037-2.jpg" filesize="204335" filedate="2022-02-17 15:57:54" width="974px" height="1157px"/>
+<image path="images/p065-1.jpg" filesize="225586" filedate="2022-02-17 15:57:54" width="1015px" height="1081px"/>
+<image path="images/p065-2.jpg" filesize="227286" filedate="2022-02-17 15:57:54" width="1005px" height="1078px"/>
+<image path="images/p081-1.jpg" filesize="190737" filedate="2022-02-17 15:57:54" width="1018px" height="949px"/>
+<image path="images/p081-2.jpg" filesize="200540" filedate="2022-02-17 15:57:54" width="1015px" height="934px"/>
+<image path="images/p087.jpg" filesize="314950" filedate="2022-02-17 15:57:54" width="959px" height="1285px"/>
+<image path="images/p113-1.jpg" filesize="261947" filedate="2022-02-17 15:57:54" width="1237px" height="943px"/>
+<image path="images/p113-2.jpg" filesize="268414" filedate="2022-02-17 15:57:54" width="1220px" height="942px"/>
+<image path="images/p183-1.jpg" filesize="195606" filedate="2022-02-17 15:57:54" width="734px" height="1036px"/>
+<image path="images/p183-2.jpg" filesize="194992" filedate="2022-02-17 15:57:54" width="773px" height="1036px"/>
+<image path="images/p241.jpg" filesize="339418" filedate="2022-02-17 15:57:54" width="1440px" height="1033px"/>
+<image path="images/p254.png" filesize="56227" filedate="2022-02-17 15:57:54" width="850px" height="1440px"/>
+<image path="images/p267.jpg" filesize="399342" filedate="2022-02-17 15:57:54" width="1440px" height="1083px"/>
+<image path="images/p273-1.jpg" filesize="188709" filedate="2022-02-17 15:57:54" width="774px" height="976px"/>
+<image path="images/p273-2.jpg" filesize="306149" filedate="2022-02-17 15:57:54" width="1302px" height="962px"/>
+<image path="images/qr67426.png" filesize="327" filedate="2022-02-17 22:39:26" width="296px" height="296px"/>
+<image path="images/rbrace2.png" filesize="260" filedate="2022-02-17 15:57:54" width="23px" height="80px"/>
+<image path="images/rbrace3.png" filesize="265" filedate="2022-02-17 15:57:54" width="23px" height="120px"/>
+<image path="images/rbrace6.png" filesize="269" filedate="2022-02-17 15:57:54" width="23px" height="240px"/>
+<image path="images/rbrace7.png" filesize="263" filedate="2022-02-17 15:57:54" width="23px" height="280px"/>
+<image path="images/titlepage.png" filesize="26705" filedate="2022-02-17 15:57:54" width="791px" height="1440px"/>
+</images>
